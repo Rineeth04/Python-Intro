@@ -6,7 +6,7 @@
 - Exception Handling
 - OOP
 - NumPy & Pandas
-- Sets, Tuples, List
+- Sets, Tuples, List, Dictionary
 - Strings
 
 ## Purpose
