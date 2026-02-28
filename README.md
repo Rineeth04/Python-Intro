@@ -8,6 +8,6 @@
 - NumPy & Pandas
 - Sets, Tuples, List, Dictionary
 - Strings
-
+- Modules in python
 ## Purpose
 This repository contains Python practice examples created while learning Python fundamentals.
