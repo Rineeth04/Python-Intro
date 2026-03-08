@@ -1,3 +1,20 @@
 {
-  "cSpell.words": ["ndmin"]
+  "cSpell.words": ["ndmin"],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "MyDatabase",
+      "database": "My_db",
+      "username": "root",
+      "askForPassword": true
+    }
+  ]
 }

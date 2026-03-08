@@ -1,10 +1,10 @@
 class student():
     def __init__(self,name,age):
         self.name=name
-        self,age-age
+        self.__age=age
     def get_age(self):
         return self.__age
-    def set_age(self):
+    def set_age(self, age):
         self.__age=age
 s =student("rineeth",22)
 print("name is:",s.name,s.get_age())

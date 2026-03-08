@@ -4,6 +4,7 @@ class car(ABC):
         self.brand=brand
         self.model=model
         self.year=year
+
     @abstractmethod
     def printDetails(self):
         pass
@@ -11,6 +12,7 @@ class car(ABC):
         print("speed up")
     def break_applied(self):
         print("slow down")
+
 #child class
 class hatchback(car):
     def printDetails(self):
